@@ -1,0 +1,55 @@
+10
+
+dir
+14297
+http://svn.eathena.ws/svn/ea/trunk/src
+http://svn.eathena.ws/svn/ea
+
+
+
+2010-05-19T16:45:43.921174Z
+14297
+brianluau
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8d3bc1bb-15e8-0310-adf8-f98a08d51996
+
+plugins
+dir
+
+ladmin
+dir
+
+txt-converter
+dir
+
+common
+dir
+
+login
+dir
+
+char_sql
+dir
+
+char
+dir
+
+map
+dir
+
+tool
+dir
+
